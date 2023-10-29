@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+slurm_out
+*nfs*
+*.sh
+*.bz2
+*generate_optimal*
+*old*
+*rejoin*
+trained_networks/
