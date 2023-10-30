@@ -6,6 +6,6 @@ Same objective of using NN for predicting QAOA angles but using more sophisticat
 ## Goals for improvements over QAOANeural:
 1. Varied dataset structures, such as various classes of Hamiltonian graphs and weights.  
 2. Better feature selection from the Hamiltonians.  
-3. GPU training (using PyTorch CUDA).  
+3. GPU training using PyTorch CUDA.  
 4. Varied NN structures.  
 5. Varied activation functions.  
